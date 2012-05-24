@@ -11,7 +11,21 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120523063819) do
+ActiveRecord::Schema.define(:version => 20120524033121) do
+
+  create_table "deals", :force => true do |t|
+    t.string   "url"
+    t.text     "intro"
+    t.decimal  "price",      :precision => 6, :scale => 2
+    t.string   "image"
+    t.string   "catalog"
+    t.string   "provider"
+    t.integer  "sale_count",                               :default => -1
+    t.datetime "created_at",                                               :null => false
+    t.datetime "updated_at",                                               :null => false
+  end
+
+  add_index "deals", ["url"], :name => "index_deals_on_url", :unique => true
 
   create_table "spree_activators", :force => true do |t|
     t.string   "description"
