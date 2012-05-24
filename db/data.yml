@@ -1,0 +1,2247 @@
+
+---
+spree_countries:
+  columns:
+  - id
+  - iso_name
+  - iso
+  - iso3
+  - name
+  - numcode
+  records: 
+  - - 1
+    - AFGHANISTAN
+    - AF
+    - AFG
+    - Afghanistan
+    - 4
+  - - 2
+    - ALBANIA
+    - AL
+    - ALB
+    - Albania
+    - 8
+  - - 3
+    - ALGERIA
+    - DZ
+    - DZA
+    - Algeria
+    - 12
+  - - 4
+    - AMERICAN SAMOA
+    - AS
+    - ASM
+    - American Samoa
+    - 16
+  - - 5
+    - ANDORRA
+    - AD
+    - AND
+    - Andorra
+    - 20
+  - - 6
+    - ANGOLA
+    - AO
+    - AGO
+    - Angola
+    - 24
+  - - 7
+    - ANGUILLA
+    - AI
+    - AIA
+    - Anguilla
+    - 660
+  - - 8
+    - ANTIGUA AND BARBUDA
+    - AG
+    - ATG
+    - Antigua and Barbuda
+    - 28
+  - - 9
+    - ARGENTINA
+    - AR
+    - ARG
+    - Argentina
+    - 32
+  - - 10
+    - ARMENIA
+    - AM
+    - ARM
+    - Armenia
+    - 51
+  - - 11
+    - ARUBA
+    - AW
+    - ABW
+    - Aruba
+    - 533
+  - - 12
+    - AUSTRALIA
+    - AU
+    - AUS
+    - Australia
+    - 36
+  - - 13
+    - AUSTRIA
+    - AT
+    - AUT
+    - Austria
+    - 40
+  - - 14
+    - AZERBAIJAN
+    - AZ
+    - AZE
+    - Azerbaijan
+    - 31
+  - - 15
+    - BAHAMAS
+    - BS
+    - BHS
+    - Bahamas
+    - 44
+  - - 16
+    - BAHRAIN
+    - BH
+    - BHR
+    - Bahrain
+    - 48
+  - - 17
+    - BANGLADESH
+    - BD
+    - BGD
+    - Bangladesh
+    - 50
+  - - 18
+    - BARBADOS
+    - BB
+    - BRB
+    - Barbados
+    - 52
+  - - 19
+    - BELARUS
+    - BY
+    - BLR
+    - Belarus
+    - 112
+  - - 20
+    - BELGIUM
+    - BE
+    - BEL
+    - Belgium
+    - 56
+  - - 21
+    - BELIZE
+    - BZ
+    - BLZ
+    - Belize
+    - 84
+  - - 22
+    - BENIN
+    - BJ
+    - BEN
+    - Benin
+    - 204
+  - - 23
+    - BERMUDA
+    - BM
+    - BMU
+    - Bermuda
+    - 60
+  - - 24
+    - BHUTAN
+    - BT
+    - BTN
+    - Bhutan
+    - 64
+  - - 25
+    - BOLIVIA
+    - BO
+    - BOL
+    - Bolivia
+    - 68
+  - - 26
+    - BOSNIA AND HERZEGOVINA
+    - BA
+    - BIH
+    - Bosnia and Herzegovina
+    - 70
+  - - 27
+    - BOTSWANA
+    - BW
+    - BWA
+    - Botswana
+    - 72
+  - - 28
+    - BRAZIL
+    - BR
+    - BRA
+    - Brazil
+    - 76
+  - - 29
+    - BRUNEI DARUSSALAM
+    - BN
+    - BRN
+    - Brunei Darussalam
+    - 96
+  - - 30
+    - BULGARIA
+    - BG
+    - BGR
+    - Bulgaria
+    - 100
+  - - 31
+    - BURKINA FASO
+    - BF
+    - BFA
+    - Burkina Faso
+    - 854
+  - - 32
+    - BURUNDI
+    - BI
+    - BDI
+    - Burundi
+    - 108
+  - - 33
+    - CAMBODIA
+    - KH
+    - KHM
+    - Cambodia
+    - 116
+  - - 34
+    - CAMEROON
+    - CM
+    - CMR
+    - Cameroon
+    - 120
+  - - 35
+    - CANADA
+    - CA
+    - CAN
+    - Canada
+    - 124
+  - - 36
+    - CAPE VERDE
+    - CV
+    - CPV
+    - Cape Verde
+    - 132
+  - - 37
+    - CAYMAN ISLANDS
+    - KY
+    - CYM
+    - Cayman Islands
+    - 136
+  - - 38
+    - CENTRAL AFRICAN REPUBLIC
+    - CF
+    - CAF
+    - Central African Republic
+    - 140
+  - - 39
+    - CHAD
+    - TD
+    - TCD
+    - Chad
+    - 148
+  - - 40
+    - CHILE
+    - CL
+    - CHL
+    - Chile
+    - 152
+  - - 41
+    - CHINA
+    - CN
+    - CHN
+    - China
+    - 156
+  - - 42
+    - COLOMBIA
+    - CO
+    - COL
+    - Colombia
+    - 170
+  - - 43
+    - COMOROS
+    - KM
+    - COM
+    - Comoros
+    - 174
+  - - 44
+    - CONGO
+    - CG
+    - COG
+    - Congo
+    - 178
+  - - 45
+    - CONGO, THE DEMOCRATIC REPUBLIC OF THE
+    - CD
+    - COD
+    - Congo, the Democratic Republic of the
+    - 180
+  - - 46
+    - COOK ISLANDS
+    - CK
+    - COK
+    - Cook Islands
+    - 184
+  - - 47
+    - COSTA RICA
+    - CR
+    - CRI
+    - Costa Rica
+    - 188
+  - - 48
+    - COTE D'IVOIRE
+    - CI
+    - CIV
+    - Cote D'Ivoire
+    - 384
+  - - 49
+    - CROATIA
+    - HR
+    - HRV
+    - Croatia
+    - 191
+  - - 50
+    - CUBA
+    - CU
+    - CUB
+    - Cuba
+    - 192
+  - - 51
+    - CYPRUS
+    - CY
+    - CYP
+    - Cyprus
+    - 196
+  - - 52
+    - CZECH REPUBLIC
+    - CZ
+    - CZE
+    - Czech Republic
+    - 203
+  - - 53
+    - DENMARK
+    - DK
+    - DNK
+    - Denmark
+    - 208
+  - - 54
+    - DJIBOUTI
+    - DJ
+    - DJI
+    - Djibouti
+    - 262
+  - - 55
+    - DOMINICA
+    - DM
+    - DMA
+    - Dominica
+    - 212
+  - - 56
+    - DOMINICAN REPUBLIC
+    - DO
+    - DOM
+    - Dominican Republic
+    - 214
+  - - 57
+    - ECUADOR
+    - EC
+    - ECU
+    - Ecuador
+    - 218
+  - - 58
+    - EGYPT
+    - EG
+    - EGY
+    - Egypt
+    - 818
+  - - 59
+    - EL SALVADOR
+    - SV
+    - SLV
+    - El Salvador
+    - 222
+  - - 60
+    - EQUATORIAL GUINEA
+    - GQ
+    - GNQ
+    - Equatorial Guinea
+    - 226
+  - - 61
+    - ERITREA
+    - ER
+    - ERI
+    - Eritrea
+    - 232
+  - - 62
+    - ESTONIA
+    - EE
+    - EST
+    - Estonia
+    - 233
+  - - 63
+    - ETHIOPIA
+    - ET
+    - ETH
+    - Ethiopia
+    - 231
+  - - 64
+    - FALKLAND ISLANDS (MALVINAS)
+    - FK
+    - FLK
+    - Falkland Islands (Malvinas)
+    - 238
+  - - 65
+    - FAROE ISLANDS
+    - FO
+    - FRO
+    - Faroe Islands
+    - 234
+  - - 66
+    - FIJI
+    - FJ
+    - FJI
+    - Fiji
+    - 242
+  - - 67
+    - FINLAND
+    - FI
+    - FIN
+    - Finland
+    - 246
+  - - 68
+    - FRANCE
+    - FR
+    - FRA
+    - France
+    - 250
+  - - 69
+    - FRENCH GUIANA
+    - GF
+    - GUF
+    - French Guiana
+    - 254
+  - - 70
+    - FRENCH POLYNESIA
+    - PF
+    - PYF
+    - French Polynesia
+    - 258
+  - - 71
+    - GABON
+    - GA
+    - GAB
+    - Gabon
+    - 266
+  - - 72
+    - GAMBIA
+    - GM
+    - GMB
+    - Gambia
+    - 270
+  - - 73
+    - GEORGIA
+    - GE
+    - GEO
+    - Georgia
+    - 268
+  - - 74
+    - GERMANY
+    - DE
+    - DEU
+    - Germany
+    - 276
+  - - 75
+    - GHANA
+    - GH
+    - GHA
+    - Ghana
+    - 288
+  - - 76
+    - GIBRALTAR
+    - GI
+    - GIB
+    - Gibraltar
+    - 292
+  - - 77
+    - GREECE
+    - GR
+    - GRC
+    - Greece
+    - 300
+  - - 78
+    - GREENLAND
+    - GL
+    - GRL
+    - Greenland
+    - 304
+  - - 79
+    - GRENADA
+    - GD
+    - GRD
+    - Grenada
+    - 308
+  - - 80
+    - GUADELOUPE
+    - GP
+    - GLP
+    - Guadeloupe
+    - 312
+  - - 81
+    - GUAM
+    - GU
+    - GUM
+    - Guam
+    - 316
+  - - 82
+    - GUATEMALA
+    - GT
+    - GTM
+    - Guatemala
+    - 320
+  - - 83
+    - GUINEA
+    - GN
+    - GIN
+    - Guinea
+    - 324
+  - - 84
+    - GUINEA-BISSAU
+    - GW
+    - GNB
+    - Guinea-Bissau
+    - 624
+  - - 85
+    - GUYANA
+    - GY
+    - GUY
+    - Guyana
+    - 328
+  - - 86
+    - HAITI
+    - HT
+    - HTI
+    - Haiti
+    - 332
+  - - 87
+    - HOLY SEE (VATICAN CITY STATE)
+    - VA
+    - VAT
+    - Holy See (Vatican City State)
+    - 336
+  - - 88
+    - HONDURAS
+    - HN
+    - HND
+    - Honduras
+    - 340
+  - - 89
+    - HONG KONG
+    - HK
+    - HKG
+    - Hong Kong
+    - 344
+  - - 90
+    - HUNGARY
+    - HU
+    - HUN
+    - Hungary
+    - 348
+  - - 91
+    - ICELAND
+    - IS
+    - ISL
+    - Iceland
+    - 352
+  - - 92
+    - INDIA
+    - IN
+    - IND
+    - India
+    - 356
+  - - 93
+    - INDONESIA
+    - ID
+    - IDN
+    - Indonesia
+    - 360
+  - - 94
+    - IRAN, ISLAMIC REPUBLIC OF
+    - IR
+    - IRN
+    - Iran, Islamic Republic of
+    - 364
+  - - 95
+    - IRAQ
+    - IQ
+    - IRQ
+    - Iraq
+    - 368
+  - - 96
+    - IRELAND
+    - IE
+    - IRL
+    - Ireland
+    - 372
+  - - 97
+    - ISRAEL
+    - IL
+    - ISR
+    - Israel
+    - 376
+  - - 98
+    - ITALY
+    - IT
+    - ITA
+    - Italy
+    - 380
+  - - 99
+    - JAMAICA
+    - JM
+    - JAM
+    - Jamaica
+    - 388
+  - - 100
+    - JAPAN
+    - JP
+    - JPN
+    - Japan
+    - 392
+  - - 101
+    - JORDAN
+    - JO
+    - JOR
+    - Jordan
+    - 400
+  - - 102
+    - KAZAKHSTAN
+    - KZ
+    - KAZ
+    - Kazakhstan
+    - 398
+  - - 103
+    - KENYA
+    - KE
+    - KEN
+    - Kenya
+    - 404
+  - - 104
+    - KIRIBATI
+    - KI
+    - KIR
+    - Kiribati
+    - 296
+  - - 105
+    - KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+    - KP
+    - PRK
+    - North Korea
+    - 408
+  - - 106
+    - KOREA, REPUBLIC OF
+    - KR
+    - KOR
+    - South Korea
+    - 410
+  - - 107
+    - KUWAIT
+    - KW
+    - KWT
+    - Kuwait
+    - 414
+  - - 108
+    - KYRGYZSTAN
+    - KG
+    - KGZ
+    - Kyrgyzstan
+    - 417
+  - - 109
+    - LAO PEOPLE'S DEMOCRATIC REPUBLIC
+    - LA
+    - LAO
+    - Lao People's Democratic Republic
+    - 418
+  - - 110
+    - LATVIA
+    - LV
+    - LVA
+    - Latvia
+    - 428
+  - - 111
+    - LEBANON
+    - LB
+    - LBN
+    - Lebanon
+    - 422
+  - - 112
+    - LESOTHO
+    - LS
+    - LSO
+    - Lesotho
+    - 426
+  - - 113
+    - LIBERIA
+    - LR
+    - LBR
+    - Liberia
+    - 430
+  - - 114
+    - LIBYAN ARAB JAMAHIRIYA
+    - LY
+    - LBY
+    - Libyan Arab Jamahiriya
+    - 434
+  - - 115
+    - LIECHTENSTEIN
+    - LI
+    - LIE
+    - Liechtenstein
+    - 438
+  - - 116
+    - LITHUANIA
+    - LT
+    - LTU
+    - Lithuania
+    - 440
+  - - 117
+    - LUXEMBOURG
+    - LU
+    - LUX
+    - Luxembourg
+    - 442
+  - - 118
+    - MACAO
+    - MO
+    - MAC
+    - Macao
+    - 446
+  - - 119
+    - MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF
+    - MK
+    - MKD
+    - Macedonia
+    - 807
+  - - 120
+    - MADAGASCAR
+    - MG
+    - MDG
+    - Madagascar
+    - 450
+  - - 121
+    - MALAWI
+    - MW
+    - MWI
+    - Malawi
+    - 454
+  - - 122
+    - MALAYSIA
+    - MY
+    - MYS
+    - Malaysia
+    - 458
+  - - 123
+    - MALDIVES
+    - MV
+    - MDV
+    - Maldives
+    - 462
+  - - 124
+    - MALI
+    - ML
+    - MLI
+    - Mali
+    - 466
+  - - 125
+    - MALTA
+    - MT
+    - MLT
+    - Malta
+    - 470
+  - - 126
+    - MARSHALL ISLANDS
+    - MH
+    - MHL
+    - Marshall Islands
+    - 584
+  - - 127
+    - MARTINIQUE
+    - MQ
+    - MTQ
+    - Martinique
+    - 474
+  - - 128
+    - MAURITANIA
+    - MR
+    - MRT
+    - Mauritania
+    - 478
+  - - 129
+    - MAURITIUS
+    - MU
+    - MUS
+    - Mauritius
+    - 480
+  - - 130
+    - MEXICO
+    - MX
+    - MEX
+    - Mexico
+    - 484
+  - - 131
+    - MICRONESIA, FEDERATED STATES OF
+    - FM
+    - FSM
+    - Micronesia, Federated States of
+    - 583
+  - - 132
+    - MOLDOVA, REPUBLIC OF
+    - MD
+    - MDA
+    - Moldova, Republic of
+    - 498
+  - - 133
+    - MONACO
+    - MC
+    - MCO
+    - Monaco
+    - 492
+  - - 134
+    - MONGOLIA
+    - MN
+    - MNG
+    - Mongolia
+    - 496
+  - - 135
+    - MONTSERRAT
+    - MS
+    - MSR
+    - Montserrat
+    - 500
+  - - 136
+    - MOROCCO
+    - MA
+    - MAR
+    - Morocco
+    - 504
+  - - 137
+    - MOZAMBIQUE
+    - MZ
+    - MOZ
+    - Mozambique
+    - 508
+  - - 138
+    - MYANMAR
+    - MM
+    - MMR
+    - Myanmar
+    - 104
+  - - 139
+    - NAMIBIA
+    - NA
+    - NAM
+    - Namibia
+    - 516
+  - - 140
+    - NAURU
+    - NR
+    - NRU
+    - Nauru
+    - 520
+  - - 141
+    - NEPAL
+    - NP
+    - NPL
+    - Nepal
+    - 524
+  - - 142
+    - NETHERLANDS
+    - NL
+    - NLD
+    - Netherlands
+    - 528
+  - - 143
+    - NETHERLANDS ANTILLES
+    - AN
+    - ANT
+    - Netherlands Antilles
+    - 530
+  - - 144
+    - NEW CALEDONIA
+    - NC
+    - NCL
+    - New Caledonia
+    - 540
+  - - 145
+    - NEW ZEALAND
+    - NZ
+    - NZL
+    - New Zealand
+    - 554
+  - - 146
+    - NICARAGUA
+    - NI
+    - NIC
+    - Nicaragua
+    - 558
+  - - 147
+    - NIGER
+    - NE
+    - NER
+    - Niger
+    - 562
+  - - 148
+    - NIGERIA
+    - NG
+    - NGA
+    - Nigeria
+    - 566
+  - - 149
+    - NIUE
+    - NU
+    - NIU
+    - Niue
+    - 570
+  - - 150
+    - NORFOLK ISLAND
+    - NF
+    - NFK
+    - Norfolk Island
+    - 574
+  - - 151
+    - NORTHERN MARIANA ISLANDS
+    - MP
+    - MNP
+    - Northern Mariana Islands
+    - 580
+  - - 152
+    - NORWAY
+    - 'NO'
+    - NOR
+    - Norway
+    - 578
+  - - 153
+    - OMAN
+    - OM
+    - OMN
+    - Oman
+    - 512
+  - - 154
+    - PAKISTAN
+    - PK
+    - PAK
+    - Pakistan
+    - 586
+  - - 155
+    - PALAU
+    - PW
+    - PLW
+    - Palau
+    - 585
+  - - 156
+    - PANAMA
+    - PA
+    - PAN
+    - Panama
+    - 591
+  - - 157
+    - PAPUA NEW GUINEA
+    - PG
+    - PNG
+    - Papua New Guinea
+    - 598
+  - - 158
+    - PARAGUAY
+    - PY
+    - PRY
+    - Paraguay
+    - 600
+  - - 159
+    - PERU
+    - PE
+    - PER
+    - Peru
+    - 604
+  - - 160
+    - PHILIPPINES
+    - PH
+    - PHL
+    - Philippines
+    - 608
+  - - 161
+    - PITCAIRN
+    - PN
+    - PCN
+    - Pitcairn
+    - 612
+  - - 162
+    - POLAND
+    - PL
+    - POL
+    - Poland
+    - 616
+  - - 163
+    - PORTUGAL
+    - PT
+    - PRT
+    - Portugal
+    - 620
+  - - 164
+    - PUERTO RICO
+    - PR
+    - PRI
+    - Puerto Rico
+    - 630
+  - - 165
+    - QATAR
+    - QA
+    - QAT
+    - Qatar
+    - 634
+  - - 166
+    - REUNION
+    - RE
+    - REU
+    - Reunion
+    - 638
+  - - 167
+    - ROMANIA
+    - RO
+    - ROM
+    - Romania
+    - 642
+  - - 168
+    - RUSSIAN FEDERATION
+    - RU
+    - RUS
+    - Russian Federation
+    - 643
+  - - 169
+    - RWANDA
+    - RW
+    - RWA
+    - Rwanda
+    - 646
+  - - 170
+    - SAINT HELENA
+    - SH
+    - SHN
+    - Saint Helena
+    - 654
+  - - 171
+    - SAINT KITTS AND NEVIS
+    - KN
+    - KNA
+    - Saint Kitts and Nevis
+    - 659
+  - - 172
+    - SAINT LUCIA
+    - LC
+    - LCA
+    - Saint Lucia
+    - 662
+  - - 173
+    - SAINT PIERRE AND MIQUELON
+    - PM
+    - SPM
+    - Saint Pierre and Miquelon
+    - 666
+  - - 174
+    - SAINT VINCENT AND THE GRENADINES
+    - VC
+    - VCT
+    - Saint Vincent and the Grenadines
+    - 670
+  - - 175
+    - SAMOA
+    - WS
+    - WSM
+    - Samoa
+    - 882
+  - - 176
+    - SAN MARINO
+    - SM
+    - SMR
+    - San Marino
+    - 674
+  - - 177
+    - SAO TOME AND PRINCIPE
+    - ST
+    - STP
+    - Sao Tome and Principe
+    - 678
+  - - 178
+    - SAUDI ARABIA
+    - SA
+    - SAU
+    - Saudi Arabia
+    - 682
+  - - 179
+    - SENEGAL
+    - SN
+    - SEN
+    - Senegal
+    - 686
+  - - 180
+    - SEYCHELLES
+    - SC
+    - SYC
+    - Seychelles
+    - 690
+  - - 181
+    - SIERRA LEONE
+    - SL
+    - SLE
+    - Sierra Leone
+    - 694
+  - - 182
+    - SINGAPORE
+    - SG
+    - SGP
+    - Singapore
+    - 702
+  - - 183
+    - SLOVAKIA
+    - SK
+    - SVK
+    - Slovakia
+    - 703
+  - - 184
+    - SLOVENIA
+    - SI
+    - SVN
+    - Slovenia
+    - 705
+  - - 185
+    - SOLOMON ISLANDS
+    - SB
+    - SLB
+    - Solomon Islands
+    - 90
+  - - 186
+    - SOMALIA
+    - SO
+    - SOM
+    - Somalia
+    - 706
+  - - 187
+    - SOUTH AFRICA
+    - ZA
+    - ZAF
+    - South Africa
+    - 710
+  - - 188
+    - SPAIN
+    - ES
+    - ESP
+    - Spain
+    - 724
+  - - 189
+    - SRI LANKA
+    - LK
+    - LKA
+    - Sri Lanka
+    - 144
+  - - 190
+    - SUDAN
+    - SD
+    - SDN
+    - Sudan
+    - 736
+  - - 191
+    - SURINAME
+    - SR
+    - SUR
+    - Suriname
+    - 740
+  - - 192
+    - SVALBARD AND JAN MAYEN
+    - SJ
+    - SJM
+    - Svalbard and Jan Mayen
+    - 744
+  - - 193
+    - SWAZILAND
+    - SZ
+    - SWZ
+    - Swaziland
+    - 748
+  - - 194
+    - SWEDEN
+    - SE
+    - SWE
+    - Sweden
+    - 752
+  - - 195
+    - SWITZERLAND
+    - CH
+    - CHE
+    - Switzerland
+    - 756
+  - - 196
+    - SYRIAN ARAB REPUBLIC
+    - SY
+    - SYR
+    - Syrian Arab Republic
+    - 760
+  - - 197
+    - TAIWAN, PROVINCE OF CHINA
+    - TW
+    - TWN
+    - Taiwan
+    - 158
+  - - 198
+    - TAJIKISTAN
+    - TJ
+    - TJK
+    - Tajikistan
+    - 762
+  - - 199
+    - TANZANIA, UNITED REPUBLIC OF
+    - TZ
+    - TZA
+    - Tanzania, United Republic of
+    - 834
+  - - 200
+    - THAILAND
+    - TH
+    - THA
+    - Thailand
+    - 764
+  - - 201
+    - TOGO
+    - TG
+    - TGO
+    - Togo
+    - 768
+  - - 202
+    - TOKELAU
+    - TK
+    - TKL
+    - Tokelau
+    - 772
+  - - 203
+    - TONGA
+    - TO
+    - TON
+    - Tonga
+    - 776
+  - - 204
+    - TRINIDAD AND TOBAGO
+    - TT
+    - TTO
+    - Trinidad and Tobago
+    - 780
+  - - 205
+    - TUNISIA
+    - TN
+    - TUN
+    - Tunisia
+    - 788
+  - - 206
+    - TURKEY
+    - TR
+    - TUR
+    - Turkey
+    - 792
+  - - 207
+    - TURKMENISTAN
+    - TM
+    - TKM
+    - Turkmenistan
+    - 795
+  - - 208
+    - TURKS AND CAICOS ISLANDS
+    - TC
+    - TCA
+    - Turks and Caicos Islands
+    - 796
+  - - 209
+    - TUVALU
+    - TV
+    - TUV
+    - Tuvalu
+    - 798
+  - - 210
+    - UGANDA
+    - UG
+    - UGA
+    - Uganda
+    - 800
+  - - 211
+    - UKRAINE
+    - UA
+    - UKR
+    - Ukraine
+    - 804
+  - - 212
+    - UNITED ARAB EMIRATES
+    - AE
+    - ARE
+    - United Arab Emirates
+    - 784
+  - - 213
+    - UNITED KINGDOM
+    - GB
+    - GBR
+    - United Kingdom
+    - 826
+  - - 214
+    - UNITED STATES
+    - US
+    - USA
+    - United States
+    - 840
+  - - 215
+    - URUGUAY
+    - UY
+    - URY
+    - Uruguay
+    - 858
+  - - 216
+    - UZBEKISTAN
+    - UZ
+    - UZB
+    - Uzbekistan
+    - 860
+  - - 217
+    - VANUATU
+    - VU
+    - VUT
+    - Vanuatu
+    - 548
+  - - 218
+    - VENEZUELA
+    - VE
+    - VEN
+    - Venezuela
+    - 862
+  - - 219
+    - VIET NAM
+    - VN
+    - VNM
+    - Viet Nam
+    - 704
+  - - 220
+    - VIRGIN ISLANDS, BRITISH
+    - VG
+    - VGB
+    - Virgin Islands, British
+    - 92
+  - - 221
+    - VIRGIN ISLANDS, U.S.
+    - VI
+    - VIR
+    - Virgin Islands, U.S.
+    - 850
+  - - 222
+    - WALLIS AND FUTUNA
+    - WF
+    - WLF
+    - Wallis and Futuna
+    - 876
+  - - 223
+    - WESTERN SAHARA
+    - EH
+    - ESH
+    - Western Sahara
+    - 732
+  - - 224
+    - YEMEN
+    - YE
+    - YEM
+    - Yemen
+    - 887
+  - - 225
+    - ZAMBIA
+    - ZM
+    - ZMB
+    - Zambia
+    - 894
+  - - 226
+    - ZIMBABWE
+    - ZW
+    - ZWE
+    - Zimbabwe
+    - 716
+
+---
+spree_line_items:
+  columns:
+  - id
+  - order_id
+  - variant_id
+  - quantity
+  - price
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - 1
+    - 1
+    - 2
+    - 199
+    - '2012-05-23 06:50:59.716507'
+    - '2012-05-23 07:10:53.588896'
+  - - 2
+    - 2
+    - 2
+    - 1
+    - 299
+    - '2012-05-23 06:50:59.716507'
+    - '2012-05-23 06:50:59.716507'
+  - - 3
+    - 1
+    - 2
+    - 2
+    - 299
+    - '2012-05-23 07:10:36.252405'
+    - '2012-05-23 07:10:42.706401'
+
+---
+spree_products:
+  columns:
+  - id
+  - name
+  - description
+  - available_on
+  - deleted_at
+  - permalink
+  - meta_description
+  - meta_keywords
+  - tax_category_id
+  - shipping_category_id
+  - created_at
+  - updated_at
+  - count_on_hand
+  records: 
+  - - 1
+    - Test-Hotel
+    - This is a test hotel selling.
+    - '2012-05-23 00:00:00.000000'
+    - !!null 
+    - test-hotel
+    - ''
+    - ''
+    - !!null 
+    - !!null 
+    - '2012-05-23 06:46:57.225315'
+    - '2012-05-23 06:50:09.181197'
+    - 0
+  - - 2
+    - Hotel
+    - This is a new hotel selling.
+    - '2012-05-23 00:00:00.000000'
+    - !!null 
+    - hotel
+    - ''
+    - ''
+    - !!null 
+    - !!null 
+    - '2012-05-23 06:46:57.225315'
+    - '2012-05-23 06:50:09.181197'
+    - 10
+  - - 3
+    - New Hotel
+    - This is a new hotel selling.
+    - '2012-05-23 00:00:00.000000'
+    - !!null 
+    - new-hotel
+    - ''
+    - ''
+    - !!null 
+    - !!null 
+    - '2012-05-23 07:27:15.199271'
+    - '2012-05-23 07:27:24.426371'
+    - 0
+  - - 4
+    - Hotel-selling
+    - This is a new hotel selling.
+    - '2012-05-23 00:00:00.000000'
+    - !!null 
+    - hotel-selling
+    - ''
+    - ''
+    - !!null 
+    - !!null 
+    - '2012-05-23 07:34:42.444377'
+    - '2012-05-23 07:36:13.653743'
+    - 0
+  - - 5
+    - 5Hotel
+    - This is a new hotel selling.
+    - '2012-05-23 00:00:00.000000'
+    - !!null 
+    - 5hotel
+    - ''
+    - ''
+    - !!null 
+    - !!null 
+    - '2012-05-23 07:34:42.444377'
+    - '2012-05-23 07:36:13.653743'
+    - 0
+
+---
+spree_roles:
+  columns:
+  - id
+  - name
+  records: 
+  - - 770229923
+    - user
+  - - 930089099
+    - admin
+
+---
+spree_roles_users:
+  columns:
+  - role_id
+  - user_id
+  records: 
+  - - 930089099
+    - 1
+  - - 930089099
+    - 1
+
+---
+spree_states:
+  columns:
+  - id
+  - name
+  - abbr
+  - country_id
+  records: 
+  - - 6764998
+    - District of Columbia
+    - DC
+    - 214
+  - - 17199670
+    - Utah
+    - UT
+    - 214
+  - - 37199952
+    - Louisiana
+    - LA
+    - 214
+  - - 41111624
+    - Virginia
+    - VA
+    - 214
+  - - 51943165
+    - North Dakota
+    - ND
+    - 214
+  - - 66390489
+    - Wyoming
+    - WY
+    - 214
+  - - 69729944
+    - New Mexico
+    - NM
+    - 214
+  - - 69870734
+    - Connecticut
+    - CT
+    - 214
+  - - 91367981
+    - West Virginia
+    - WV
+    - 214
+  - - 103680699
+    - Wisconsin
+    - WI
+    - 214
+  - - 177087202
+    - North Carolina
+    - NC
+    - 214
+  - - 179539703
+    - Nevada
+    - NV
+    - 214
+  - - 199950338
+    - Hawaii
+    - HI
+    - 214
+  - - 248548169
+    - Oklahoma
+    - OK
+    - 214
+  - - 267271847
+    - Florida
+    - FL
+    - 214
+  - - 276110813
+    - California
+    - CA
+    - 214
+  - - 298914262
+    - Oregon
+    - OR
+    - 214
+  - - 308473843
+    - Kentucky
+    - KY
+    - 214
+  - - 385551075
+    - Massachusetts
+    - MA
+    - 214
+  - - 403740659
+    - Alaska
+    - AK
+    - 214
+  - - 414569975
+    - Washington
+    - WA
+    - 214
+  - - 426832442
+    - New Hampshire
+    - NH
+    - 214
+  - - 471470972
+    - Arkansas
+    - AR
+    - 214
+  - - 471711976
+    - Pennsylvania
+    - PA
+    - 214
+  - - 474001862
+    - Rhode Island
+    - RI
+    - 214
+  - - 480368357
+    - Maryland
+    - MD
+    - 214
+  - - 485193526
+    - Ohio
+    - OH
+    - 214
+  - - 525212995
+    - Texas
+    - TX
+    - 214
+  - - 532363768
+    - Mississippi
+    - MS
+    - 214
+  - - 536031023
+    - Colorado
+    - CO
+    - 214
+  - - 597434151
+    - South Carolina
+    - SC
+    - 214
+  - - 615306087
+    - South Dakota
+    - SD
+    - 214
+  - - 625629523
+    - Illinois
+    - IL
+    - 214
+  - - 653576146
+    - Missouri
+    - MO
+    - 214
+  - - 673350891
+    - Nebraska
+    - NE
+    - 214
+  - - 721598219
+    - Delaware
+    - DE
+    - 214
+  - - 726305632
+    - Tennessee
+    - TN
+    - 214
+  - - 750950030
+    - New Jersey
+    - NJ
+    - 214
+  - - 769938586
+    - Indiana
+    - IN
+    - 214
+  - - 825306985
+    - Iowa
+    - IA
+    - 214
+  - - 876916760
+    - Georgia
+    - GA
+    - 214
+  - - 889445952
+    - New York
+    - NY
+    - 214
+  - - 931624400
+    - Michigan
+    - MI
+    - 214
+  - - 948208802
+    - Arizona
+    - AZ
+    - 214
+  - - 969722173
+    - Kansas
+    - KS
+    - 214
+  - - 982433740
+    - Idaho
+    - ID
+    - 214
+  - - 989115415
+    - Vermont
+    - VT
+    - 214
+  - - 999156632
+    - Montana
+    - MT
+    - 214
+  - - 1032288924
+    - Minnesota
+    - MN
+    - 214
+  - - 1055056709
+    - Maine
+    - ME
+    - 214
+  - - 1061493585
+    - Alabama
+    - AL
+    - 214
+
+---
+spree_variants:
+  columns:
+  - id
+  - sku
+  - price
+  - weight
+  - height
+  - width
+  - depth
+  - deleted_at
+  - is_master
+  - product_id
+  - count_on_hand
+  - cost_price
+  - position
+  records: 
+  - - 1
+    - ''
+    - 199
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - true
+    - 1
+    - 0
+    - !!null 
+    - !!null 
+  - - 2
+    - ''
+    - 299
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - true
+    - 2
+    - 0
+    - !!null 
+    - !!null 
+  - - 3
+    - ''
+    - 399
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - true
+    - 3
+    - 0
+    - !!null 
+    - !!null 
+  - - 4
+    - ''
+    - 99
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - true
+    - 4
+    - 0
+    - !!null 
+    - !!null 
+  - - 5
+    - ''
+    - 999
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - true
+    - 5
+    - 0
+    - !!null 
+    - !!null 
+
+---
+spree_zone_members:
+  columns:
+  - id
+  - zoneable_id
+  - zoneable_type
+  - zone_id
+  - created_at
+  - updated_at
+  records: 
+  - - 4914820
+    - 13
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 5807739
+    - 96
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 35022990
+    - 188
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 91991191
+    - 163
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 120011419
+    - 52
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 120937060
+    - 117
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 195044517
+    - 214
+    - Spree::Country
+    - 2
+    - '2009-06-04 17:22:41.000000'
+    - '2009-06-04 17:22:41.000000'
+  - - 244414130
+    - 68
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 394938353
+    - 162
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 423866172
+    - 20
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 424792003
+    - 90
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 477297967
+    - 184
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 506358563
+    - 53
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 507251676
+    - 116
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 546142054
+    - 142
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 690576312
+    - 62
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 691747661
+    - 110
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 729140670
+    - 183
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 739772837
+    - 213
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 776249265
+    - 30
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 777453396
+    - 74
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 807406092
+    - 51
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 808610553
+    - 125
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 847027202
+    - 167
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 890329113
+    - 194
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 929017584
+    - 98
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 966149671
+    - 67
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 1017582644
+    - 35
+    - Spree::Country
+    - 2
+    - '2009-06-04 17:22:41.000000'
+    - '2009-06-04 17:22:41.000000'
+
+---
+spree_zones:
+  columns:
+  - id
+  - name
+  - description
+  - created_at
+  - updated_at
+  - default_tax
+  records: 
+  - - 1
+    - EU_VAT
+    - Countries that make up the EU VAT zone.
+    - '2009-06-04 17:22:26.000000'
+    - '2009-06-04 17:22:26.000000'
+    - false
+  - - 2
+    - North America
+    - USA + Canada
+    - '2009-06-04 17:22:41.000000'
+    - '2009-06-04 17:22:41.000000'
+    - false
+
+---
+spree_orders:
+  columns:
+  - id
+  - number
+  - item_total
+  - total
+  - state
+  - adjustment_total
+  - credit_total
+  - user_id
+  - created_at
+  - updated_at
+  - completed_at
+  - bill_address_id
+  - ship_address_id
+  - payment_total
+  - shipping_method_id
+  - shipment_state
+  - payment_state
+  - email
+  - special_instructions
+  records: 
+  - - 1
+    - R512713274
+    - 996
+    - 996
+    - cart
+    - 0
+    - 0
+    - 1
+    - '2012-05-23 06:50:59.398328'
+    - '2012-05-23 06:50:59.398328'
+    - !!null 
+    - !!null 
+    - !!null 
+    - 0
+    - !!null 
+    - !!null 
+    - balance_due
+    - spree@example.com
+    - !!null 
+
+---
+spree_assets:
+  columns:
+  - id
+  - viewable_id
+  - attachment_width
+  - attachment_height
+  - attachment_file_size
+  - position
+  - viewable_type
+  - attachment_content_type
+  - attachment_file_name
+  - type
+  - attachment_updated_at
+  - alt
+  records: 
+  - - 1
+    - 2
+    - 456
+    - 304
+    - 86661
+    - 1
+    - Spree::Variant
+    - image/jpeg
+    - 14goods_1333693566_7879.jpg
+    - Spree::Image
+    - '2012-05-23 07:16:03.631933'
+    - ''
+  - - 2
+    - 1
+    - 456
+    - 304
+    - 38993
+    - 1
+    - Spree::Variant
+    - image/jpeg
+    - goods_1337216755_6451.jpg
+    - Spree::Image
+    - '2012-05-23 07:25:23.201911'
+    - ''
+  - - 3
+    - 3
+    - 456
+    - 304
+    - 58359
+    - 1
+    - Spree::Variant
+    - image/jpeg
+    - goods_1336963284_3001.jpg
+    - Spree::Image
+    - '2012-05-23 07:32:03.539638'
+    - ''
+  - - 4
+    - 4
+    - 456
+    - 304
+    - 43678
+    - 1
+    - Spree::Variant
+    - image/jpeg
+    - goods_1335406789_4068.jpg
+    - Spree::Image
+    - '2012-05-24 01:15:24.876862'
+    - ''
+  - - 5
+    - 5
+    - 456
+    - 304
+    - 43678
+    - 1
+    - Spree::Variant
+    - image/jpeg
+    - goods_1335406789_4068.jpg
+    - Spree::Image
+    - '2012-05-24 01:15:24.876862'
+    - ''
+
+---
+spree_tokenized_permissions:
+  columns:
+  - id
+  - permissable_id
+  - permissable_type
+  - token
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - 1
+    - Spree::Order
+    - 21aa3f0d33ebc135
+    - '2012-05-23 06:50:59.454535'
+    - '2012-05-23 06:50:59.454535'
+
+---
+spree_users:
+  columns:
+  - id
+  - encrypted_password
+  - password_salt
+  - email
+  - remember_token
+  - persistence_token
+  - reset_password_token
+  - perishable_token
+  - sign_in_count
+  - failed_attempts
+  - last_request_at
+  - current_sign_in_at
+  - last_sign_in_at
+  - current_sign_in_ip
+  - last_sign_in_ip
+  - login
+  - ship_address_id
+  - bill_address_id
+  - created_at
+  - updated_at
+  - authentication_token
+  - unlock_token
+  - locked_at
+  - remember_created_at
+  - reset_password_sent_at
+  - api_key
+  records: 
+  - - 1
+    - 58b2d242705c2f456bbb7e5131e08388a93c27ba5e054c94933e2a22c65c1fa48943768835de96300ff29e173c0221897414299c3d62c55945f2f72aa1cc64ea
+    - sbvxzJtunUx5wX5c9Gpq
+    - spree@example.com
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - 1
+    - 0
+    - !!null 
+    - '2012-05-23 06:43:01.458873'
+    - '2012-05-23 06:43:01.458873'
+    - 127.0.0.1
+    - 127.0.0.1
+    - spree@example.com
+    - !!null 
+    - !!null 
+    - '2012-05-23 06:42:55.085384'
+    - '2012-05-23 06:43:01.465212'
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+    - !!null 
+
+---
+spree_preferences:
+  columns:
+  - id
+  - name
+  - owner_id
+  - owner_type
+  - value
+  - created_at
+  - updated_at
+  - key
+  - value_type
+  records: 
+  - - 1
+    - !!null 
+    - !!null 
+    - !!null 
+    - '7095'
+    - '2012-05-23 06:44:17.575077'
+    - '2012-05-23 06:44:17.575077'
+    - spree/dash_configuration/app_id
+    - string
+  - - 2
+    - !!null 
+    - !!null 
+    - !!null 
+    - cc8816c99becd2c78b6e0c47b02009e9
+    - '2012-05-23 06:44:17.706672'
+    - '2012-05-23 06:44:17.706672'
+    - spree/dash_configuration/app_token
+    - string
+  - - 3
+    - !!null 
+    - !!null 
+    - !!null 
+    - '41783'
+    - '2012-05-23 06:44:17.952651'
+    - '2012-05-23 06:44:17.952651'
+    - spree/dash_configuration/site_id
+    - string
+  - - 4
+    - !!null 
+    - !!null 
+    - !!null 
+    - 4316f5eb0856df7e0a4750f2001cee29
+    - '2012-05-23 06:44:18.086768'
+    - '2012-05-23 06:44:18.086768'
+    - spree/dash_configuration/token
+    - string
