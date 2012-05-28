@@ -11,7 +11,12 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120524033121) do
+ActiveRecord::Schema.define(:version => 20120525084449) do
+
+  create_table "assets", :force => true do |t|
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
 
   create_table "deals", :force => true do |t|
     t.string   "url"
