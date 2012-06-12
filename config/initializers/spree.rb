@@ -9,4 +9,6 @@ Spree.config do |config|
   # Example:
   # Uncomment to override the default site name.
   # config.site_name = "Spree Demo Site"
+	config.set logo: "expedia.com.jpg"
+	config.set admin_interface_logo: "expedia.com.jpg"
 end
