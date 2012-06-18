@@ -1,0 +1,131 @@
+spree_core
+app
+|--models
+	|-- spree
+	| |-- calculator
+	| | |-- default_tax.rb
+	| | |-- flat_percent_item_total.rb
+	| | |-- flat_rate.rb
+	| | |-- flexi_rate.rb
+	| | |-- per_item.rb
+	| | |-- price_sack.rb
+	| |-- gateway
+	| | |-- bogus.rb
+	| | |-- bogus_simple.rb
+	| |-- payment
+	| | |-- processing.rb
+	| |-- payment_method
+	| | |-- check.rb
+	| |-- preferences
+	| | |-- configuration.rb
+	| | |-- preferable.rb
+	| | |-- preferable_class_methods.rb
+	| | |-- store.rb
+	| |-- product
+	| | |-- scopes.rb
+	| |-- product_scope
+	| |	|-- scopes.rb
+	| |-- variant
+	| |	|-- scopes.rb
+	| |-- activator.rb
+	| |-- address.rb
+	| |-- adjuestment.rb
+	| |-- alert.rb
+	| |-- app_configuration.rb
+	| |-- asset.rb
+	| |-- billing_integration.rb
+	| |-- calculator.rb
+	| |-- configuration.rb
+	| |-- country.rb
+	| |-- creditcard.rb
+	| |-- gateway.rb
+	| |-- image.rb
+	| |-- inventory_unit.rb
+	| |-- line_item.rb
+	| |-- log_entry.rb
+	| |-- mail_method.rb
+	| |-- option_type.rb
+	| |-- option_value.rb
+	| |-- order.rb
+	| |-- payment.rb
+	| |-- payment_method.rb
+	| |-- preference.rb
+	| |-- product.rb
+	| |-- product_option_type.rb
+	| |-- product_property.rb
+	| |-- property.rb
+	| |-- prototype.rb
+	| |-- return_authorization.rb
+	| |-- role.rb
+	| |-- shipment.rb
+	| |-- shipping_category.rb
+	| |-- shipping_method.rb
+	| |-- shipping_rate.rb
+	| |-- state.rb
+	| |-- state_change.rb
+	| |-- tax_category.rb
+	| |-- taxon.rb
+	| |-- taxonomy.rb
+	| |-- tax_rate.rb
+	| |-- tracker.rb
+	| |-- user.rb
+	| |-- variant.rb
+	| |-- zone.rb
+	| |-- zone_member.rb
+	|-- spree.rb
+
+
+
+spree_promo
+app
+|-- models
+	|-- spree
+	| |-- calculator
+	| | |-- free_shipping.rb
+	| |-- promotion
+	| |	|-- actions
+	| | |	|-- create_adjustment.rb
+	| | | |-- create_line_items.rb
+	| | |-- rules
+	| | | |-- first_order.rb
+	| | | |-- item_total.rb
+	| | | |-- product.rb
+	| | | |-- user.rb
+	| | | |-- user_logged_in.rb
+	| |-- adjustment_decorator.rb
+	| |-- order_decorator.rb
+	| |-- product_decorator.rb
+	| |-- promotion.rb
+	| |-- promotion_action.rb
+	| |-- promotion_action_line_item.rb
+	| |-- promotion_rule.rb
+
+
+spree_api
+app
+|-- models
+	|-- spree
+	| |-- line_item_decorator.rb
+	| |-- option_value_decorator.rb
+	| |-- order_decorator.rb
+	| |-- payment_decorator.rb
+	| |-- user_decorator.rb
+
+
+spree_auth
+app
+|-- models
+	|-- spree
+	| |-- ability.rb
+	| |-- auth_configuration.rb
+	| |-- current_order_decorator.rb
+	| |-- order_decorator.rb
+	| |-- tokenized_permission.rb
+	| |-- user.rb
+
+
+spree_dash
+app
+|-- models
+	|-- spree
+	| |-- dash_configuration.rb
